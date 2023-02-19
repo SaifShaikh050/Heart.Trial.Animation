@@ -13,5 +13,5 @@ bodyEl.addEventListener("mousemove",(e)=>{
     bodyEl.appendChild(newSpan);
     setTimeout(()=>{
         newSpan.remove()
-    }, 3000)
+    }, 6000)
 });
